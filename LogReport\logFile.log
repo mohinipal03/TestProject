@@ -1,0 +1,9 @@
+2022-08-09 19:02:25 INFO  TestListener:26 - *** Test Suite  started ***
+2022-08-09 19:02:26 INFO  TestListener:40 - *** Running test method com.test.module1.Assignment1facebookTest1 ***
+2022-08-09 19:02:26 INFO  TestListener:31 - *** Test Suite ending ***
+2022-09-29 17:04:56 INFO  TestListener:26 - *** Test Suite  started ***
+2022-09-29 17:04:56 INFO  TestListener:40 - *** Running test method com.test.module1.Assignment1facebookTest1 ***
+2022-09-29 17:04:56 INFO  TestListener:31 - *** Test Suite ending ***
+2022-09-29 17:05:26 INFO  TestListener:26 - *** Test Suite  started ***
+2022-09-29 17:05:27 INFO  TestListener:40 - *** Running test method com.test.module1.Assignment1facebookTest1 ***
+2022-09-29 17:05:27 INFO  TestListener:31 - *** Test Suite ending ***
